@@ -1,0 +1,6 @@
+import io.netty.buffer.ReadOnlyByteBuf;
+public class FunctionUse1250 {
+public void funcUse() {
+ReadOnlyByteBuf readonlybytebuf = new ReadOnlyByteBuf();
+}
+}
